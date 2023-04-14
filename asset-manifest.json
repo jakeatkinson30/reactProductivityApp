@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactProductivityApp/static/css/main.06a9c13b.css",
+    "main.js": "/reactProductivityApp/static/js/main.5923369c.js",
+    "static/js/787.cb63dc79.chunk.js": "/reactProductivityApp/static/js/787.cb63dc79.chunk.js",
+    "index.html": "/reactProductivityApp/index.html",
+    "main.06a9c13b.css.map": "/reactProductivityApp/static/css/main.06a9c13b.css.map",
+    "main.5923369c.js.map": "/reactProductivityApp/static/js/main.5923369c.js.map",
+    "787.cb63dc79.chunk.js.map": "/reactProductivityApp/static/js/787.cb63dc79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a9c13b.css",
+    "static/js/main.5923369c.js"
+  ]
+}
